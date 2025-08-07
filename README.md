@@ -62,7 +62,7 @@
 
 ###
 
-<p align="left"><a href="https://urging.is-a.dev/" target="_blank">Urging's Website</a></p>
+<p align="left"><a href="https://urging.ch/" target="_blank">Urging's Website (https://urging.ch/)</a></p>
 
 ###
 
