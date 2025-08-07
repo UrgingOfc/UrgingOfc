@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Diogo Silva (known as Urging), I'm 16 years old and I'm a portuguese developer. I do coding in my free time and I really enjoy doing it. I have personal projects such as this website and some projects that are open-source on my github. I work with very languages and I'm currently studying C++. I want to become a computer scientist and I'm working on it. I make discord bots, FiveM scripts, applications, sometimes websites and more. My current project that is open-source and I'm working on is UgCore. More details in my website.</p>
+<p align="left">My name is Diogo Silva (known as Urging), I'm 17 years old and I'm a portuguese developer. I do coding in my free time and I really enjoy doing it. I have personal projects such as this website and some projects that are open-source on my github. I work with very languages and I'm currently studying C++. I want to become a computer scientist and I'm working on it. I make discord bots, FiveM scripts, applications, sometimes websites and more. My current project that is open-source and I'm working on is UgCore. More details in my website.</p>
 
 ###
 
