@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Diogo Silva (known as Urging), I'm 17 years old and I'm a portuguese full-stack developer. I do coding in my free time and I really enjoy doing it. I have personal projects such as my website and some projects that are open-source on my github. I work with very languages and I'm currently studying C++. I want to become a computer scientist and I'm working on it. I work a lot with NodeJS projects. You can check for more informations in my website (<a href="https://urging.ch" target="_blank">https://urging.ch</a>).</p>
+<p align="left">My name is Diogo Silva (known as Urging), I'm 18 years old and I'm a portuguese full-stack developer. I do coding in my free time and I really enjoy doing it. I have personal projects such as my website and some projects that are open-source on my github. I work with very languages and I'm currently studying C++. I want to become a computer scientist and I'm working on it. I work a lot with NodeJS projects. You can check for more informations in my website (<a href="https://urging.ch" target="_blank">https://urging.ch</a>).</p>
 
 ###
 
